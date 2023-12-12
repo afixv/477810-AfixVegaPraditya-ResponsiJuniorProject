@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "ph36T9fneRyJUahf0r3oaKlE3ExNFdPk4+tSjJuEDUJRRBbmM+2el9AG8n5i6xCtYBkeTb9bW4oscdKZ7TeI6A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Afix Vega Praditya\\Documents\\Junpro 2023\\Responsi\\Responsi\\Responsi\\Responsi.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Afix Vega Praditya\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\Afix Vega Praditya\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\8.0.0\\microsoft.extensions.logging.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\Afix Vega Praditya\\.nuget\\packages\\npgsql\\8.0.1\\npgsql.8.0.1.nupkg.sha512",
+    "C:\\Users\\Afix Vega Praditya\\.nuget\\packages\\system.diagnostics.diagnosticsource\\8.0.0\\system.diagnostics.diagnosticsource.8.0.0.nupkg.sha512",
+    "C:\\Users\\Afix Vega Praditya\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
+    "C:\\Users\\Afix Vega Praditya\\.nuget\\packages\\system.text.encodings.web\\8.0.0\\system.text.encodings.web.8.0.0.nupkg.sha512",
+    "C:\\Users\\Afix Vega Praditya\\.nuget\\packages\\system.text.json\\8.0.0\\system.text.json.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
